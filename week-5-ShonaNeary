@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="style%20copy.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+    <form>
+        <!--Here is the Username-->
+        <p> Username:
+            <input type=“ text” name=“ username” maxlength=”50” />
+            <p>Password:
+                <input type="text" name="password" />
+            </p>
+            <nav>
+                <a href="pages/about.html">about</a>
+                <a href="pages/about.html">stickers</a>
+                <a href=”pages/about.html”>prints</a>
+                <a href=”pages/about.html”>pins</a>
+                <a href=”pages/about.html”>funky art</a>
+                <a href=”pages/about.html”>buy</a>
+            </nav>
+
+    </form>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/v/t1.0-9/12805669_1561475897498058_7614436988660992632_n.jpg?oh=4e906dab7d9dbb49f813a5b0c8b76a60&oe=5875A93F" width="4000" height="30" /a>
+    <h1>ShoNa</h1>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/v/t1.0-9/12805669_1561475897498058_7614436988660992632_n.jpg?oh=4e906dab7d9dbb49f813a5b0c8b76a60&oe=5875A93F" width="4000" height="400" /a>
+    <ul>stickers</ul>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/v/t1.0-9/13339522_1604389633206684_3482382094975859657_n.png?oh=a8f4be3de78c33fce756bb7de153951c&oe=5880B7BF" width="520" height="320" /a>
+    <ul>prints</ul>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/t31.0-8/13708263_1619155328396781_2933377585610491113_o.jpg" width="500" height="350" /a>
+    <ul>pins</ul>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/v/t1.0-9/14369992_1166247266747801_8262081972142103895_n.jpg?oh=a729772764126e71ec2eaea91f6c8f9e&oe=58754DB2" width="500" height="500" /a>
+    <ul>funky art</ul>
+    <img src="https://scontent.fphl1-1.fna.fbcdn.net/t31.0-8/14102876_1639352889710358_8576137319114596840_o.jpg" width="500" height="400" /a>
+    <ul>commissions</ul>
+    <select Name=buttons>
+        <option value="radio" selected="selected">Stickers</option>
+        <option value="radio" selected="selected">Prints</option>
+        <option value="radio" selected="selected">other</option>
+    </select>
+    <input type="submit" name="order" value="submit" />
+    <ul>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/L0_BPkHZVeE" frameborder="0" allowfullscreen></iframe>
+    </ul>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.69310551687!2d-73.9941738!3d40.746778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259afbb64db0d%3A0x863a71d6d4af1f09!2sFashion+Institute+of+Technology!5e0!3m2!1sen!2sus!4v1474480309592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <p> listening to song. </p>
+
+    <audio controls>
+        <source src="audio/virginia.mp3" />
+    </audio>
+</body>
+
+</html>
